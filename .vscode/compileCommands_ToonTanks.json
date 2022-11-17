@@ -1,0 +1,57 @@
+[
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\BasePawn.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\BasePawn.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Projectile.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Tank.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Tank.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Tower.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Tower.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

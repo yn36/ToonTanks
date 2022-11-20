@@ -41,4 +41,6 @@ public:
 
 	UPROPERTY(EditDefaultsOnly, Category = "战斗")
 	TSubclassOf<class AProjectile> ProjectileClass;
+
+	void HandleDestruction();
 };

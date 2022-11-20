@@ -21,7 +21,6 @@ void ATower::Tick(float DeltaTime)
   {
     RotateTurret(Tank->GetActorLocation());
   }
-
 }
 
 void ATower::CheckFireCondition()
@@ -40,4 +39,10 @@ bool ATower::InFireRange()
     return Distance <= FireRange;
   }
   return false;
+}
+
+void ATower::HandleDestruction()
+{
+  Super::HandleDestruction();
+  Destroy();
 }

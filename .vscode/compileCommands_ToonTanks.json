@@ -10,6 +10,16 @@
 		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\HealthComponent.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\HealthComponent.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
 		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
 		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
@@ -41,6 +51,26 @@
 	},
 	{
 		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
+		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\UEProject\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
 		"command": "\"D:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @E:\\UEProject\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.205.rsp",
 		"directory": "D:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},

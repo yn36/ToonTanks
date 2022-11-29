@@ -43,4 +43,10 @@ public:
 	TSubclassOf<class AProjectile> ProjectileClass;
 
 	void HandleDestruction();
+
+	UPROPERTY(EditAnywhere, Category = "战斗")
+	class UParticleSystem *DeathParticle;
+
+	UPROPERTY(EditAnywhere, CateGory = "战斗")
+	class USoundBase *DeathSound;
 };

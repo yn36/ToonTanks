@@ -10,7 +10,16 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"*.vue": "vue",
+			"*.rs": "rust",
+			"*.less": "less",
+			"*.js": "javascript",
+			"system_error": "cpp",
+			"xlocale": "cpp",
+			"__locale": "cpp"
+		}
 	},
 	"extensions": {
 		"recommendations": [

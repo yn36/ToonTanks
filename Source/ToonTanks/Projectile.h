@@ -35,4 +35,16 @@ private:
 
 	UPROPERTY(EditAnywhere)
 	float Damage = 50.f;
+
+	UPROPERTY(EditAnywhere, Category = "战斗")
+	class UParticleSystem *HitParticle;
+
+	UPROPERTY(VisibleAnywhere, Category = "战斗")
+	class UParticleSystemComponent *TrailParticle;
+
+	UPROPERTY(EditAnywhere, Category = "战斗")
+	class USoundBase *LaunchSound;
+
+	UPROPERTY(EditAnywhere, Category = "战斗")
+	USoundBase *HitSound;
 };
